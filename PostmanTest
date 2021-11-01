@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "gessalp@gmail.com",
+        "username": "oleg",
+        "bio": null,
+        "image": "https://realworld-temp-api.herokuapp.com/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imdlc3NhbHBAZ21haWwuY29tIiwidXNlcm5hbWUiOiJvbGVnIiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vcmVhbHdvcmxkLXRlbXAtYXBpLmhlcm9rdWFwcC5jb20vaW1hZ2VzL3NtaWxleS1jeXJ1cy5qcGVnIiwiaWF0IjoxNjM1ODAzNTgzLCJleHAiOjE2NDA5ODc1ODN9.iFQgqT-wZMcjpzEybNpQEVJeh3c5-E0JFjyMZaAIh1U"
+    }
+}
